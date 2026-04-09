@@ -27,7 +27,7 @@ bun run version   # 验证版本
 
 ---
 
-### 1. [BUDDY — AI 电子宠物](docs/01-buddy.md)（已实现，并锁死为龙，如需随机，自行修改源码）
+### 1. [BUDDY — AI 电子宠物](docs/01-buddy.md)（已实现，并锁死为龙，如需随机，自行修改源码）![pet](./pet.jpg)
 
 > 源码位置：`src/buddy/` · [查看完整分析 →](docs/01-buddy.md)
 
